@@ -1,5 +1,5 @@
 petarsrd test
-
+Ovaj readme uopste ne pomaze da se pokrene projekat lokalno niti opisuje o cemu se radi u aplikaciji. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

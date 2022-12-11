@@ -9,6 +9,7 @@ const AdminMainPage = () => {
   return (
     <>
       {data.reports.map((e) => (
+        // rename e
         <CandidateReport key={e.id} report={e} />
       ))}
     </>

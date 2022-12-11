@@ -8,5 +8,5 @@ const deleteReport = (id) => {
         }
     })
 }
-
+// deleteReport bi trebala da vraca promis kako bi se odradila neka akcija ka odgovor servera
 export default deleteReport

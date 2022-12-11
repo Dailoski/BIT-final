@@ -15,6 +15,7 @@ const useData = () => {
   }, []);
 
   useEffect(() => {
+    // ovo ce da posalje jedan poziv vise
     fetchData("reports", setReports);
   }, [refreshReports]);
 
